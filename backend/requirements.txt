@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+websockets
+python-dotenv
+numpy
+pandas
+scikit-learn
+pymongo
+motor
+python-dateutil
+requests
+aiohttp
+aiohttp_socks 
